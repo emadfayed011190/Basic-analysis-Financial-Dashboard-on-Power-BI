@@ -2,7 +2,7 @@
 
 ### Dashboard Link :[C:\Users\dell\Desktop\pobi projects\blinkit dashboard](https://github.com/emadfayed011190/Basic-analysis-Financial-Dashboard-on-Power-BI/blob/main/finincial%20dashboard.pbix)
 
-### Dashboard Link :
+### snap Link :
 
 ## The key problems enterprise faces include:
 Based on the insights provided by the dashboard, here are some key problems that the enterprise may face:
